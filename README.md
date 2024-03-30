@@ -10,6 +10,6 @@ Winderton, Alek OS, Wild Mathing, Vital Math, 3blue1brown, Екатерина О
 melodysheep, Vert Dider and others
 
 Favorit books:
-Harry Potter and the Methods of Rationality, cycle Играть, чтобы жить, Profiler, Pet cemetery, The bite of evolution, cycle Отрок and others  
+Harry Potter and the Methods of Rationality, Играть чтобы жить, Profiler, Pet cemetery, The bite of evolution, Отрок --> Сотник 
 
 How to reach me - volosuninegor@gmail.com
