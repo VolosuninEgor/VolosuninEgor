@@ -1,6 +1,6 @@
 Hi, I'm Egor.
 I study computer science and mathematics. 
-Currently, in addition to school, I study at the University of the Open Source Society, or OSSU for short.
+Currently, in addition to studying at school, I study independently from books and materials from the Internet.
 
 People who serve as an example for me:
 GeoHot, LanaLob, Katardios, Eliezer Yudkowsky, Linus Torvalds and others
@@ -10,6 +10,6 @@ Winderton, Alek OS, Wild Mathing, Vital Math, 3blue1brown, Екатерина О
 melodysheep, Vert Dider and others
 
 Favorit books:
-Harry Potter and the Methods of Rationality, Играть чтобы жить, Profiler, Pet cemetery, The bite of evolution, Отрок --> Сотник 
+Harry Potter and the Methods of Rationality, Играть чтобы жить, Profiler, Pet cemetery, The bite of evolution 
 
 How to reach me - volosuninegor@gmail.com
